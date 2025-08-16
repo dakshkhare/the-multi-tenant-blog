@@ -48,8 +48,8 @@
 > Clone and run locally in just a few steps.
 
 ```bash
-git clone https://github.com/Aj1-7/multi-tenant-blog
-cd multi-tenant-blog
+git clone https://github.com/dakshkhare/the-multi-tenant-blog
+cd the-multi-tenant-blog
 
 # Install dependencies
 npm install
